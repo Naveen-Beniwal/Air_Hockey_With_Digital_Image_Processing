@@ -23,15 +23,14 @@ An innovative implementation of Air Hockey that uses computer vision and hand tr
 - Hand movement detection
 - Color-based tracking
 - Motion prediction
-- Low latency response
+- Low latency response\
 
 ## 🛠️ Tech Stack
 ```python
 # Core Technologies
-
 opencv-python    # Computer Vision
 numpy           # Numerical Operations
-
+```
 
 ⚡ Quick Start
 
@@ -56,13 +55,6 @@ Markdown
 - Move hand up/down/left/right to control paddle
 - Quick movements for power shots
 - Keep hand visible to camera
-
-⌨️ Keyboard Controls:
-
-- ESC: Exit game
-- R: Reset game
-- P: Pause game
-
 
 
 🔧 Technical Implementation
@@ -134,4 +126,4 @@ For support or queries:
 🔗 GitHub: Naveen-Beniwal
 Made with 🎮 by Naveen Beniwal
 Last Updated: 2025-01-26
-```
+
